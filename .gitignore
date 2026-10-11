@@ -1,0 +1,14 @@
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Kotlin/JVM
+out/
+build/
+.gradle/
+
+# OS
+Thumbs.db
+.DS_Store
